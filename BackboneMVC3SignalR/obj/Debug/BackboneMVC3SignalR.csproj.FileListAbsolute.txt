@@ -12,3 +12,10 @@ C:\Users\rick\Documents\Visual Studio 2010\Projects\BackboneMVC3\BackboneMVC3Sig
 C:\Users\rick\Documents\Visual Studio 2010\Projects\BackboneMVC3\BackboneMVC3SignalR\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\rick\Documents\Visual Studio 2010\Projects\BackboneMVC3\BackboneMVC3SignalR\obj\Debug\BackboneMVC3SignalR.dll
 C:\Users\rick\Documents\Visual Studio 2010\Projects\BackboneMVC3\BackboneMVC3SignalR\obj\Debug\BackboneMVC3SignalR.pdb
+C:\Library\fire-camp\BackboneMVC3SignalR\bin\BackboneMVC3SignalR.dll
+C:\Library\fire-camp\BackboneMVC3SignalR\bin\BackboneMVC3SignalR.pdb
+C:\Library\fire-camp\BackboneMVC3SignalR\bin\Microsoft.Web.Infrastructure.dll
+C:\Library\fire-camp\BackboneMVC3SignalR\bin\SignalR.dll
+C:\Library\fire-camp\BackboneMVC3SignalR\obj\Debug\ResolveAssemblyReference.cache
+C:\Library\fire-camp\BackboneMVC3SignalR\obj\Debug\BackboneMVC3SignalR.dll
+C:\Library\fire-camp\BackboneMVC3SignalR\obj\Debug\BackboneMVC3SignalR.pdb
