@@ -10,7 +10,7 @@ namespace BackboneMVC3SignalR.Hubs
     {
         public void Send(string message)
         {
-            // Call the addMessage method on all clients
+            // Call the reloadMessages method on all clients
             Clients.reloadMessages(message);
         }
     }
