@@ -1,0 +1,7 @@
+c:\users\rick\documents\visual studio 2010\Projects\BackboneMVC3\BackboneMVC3\bin\BackboneMVC3.dll
+c:\users\rick\documents\visual studio 2010\Projects\BackboneMVC3\BackboneMVC3\bin\BackboneMVC3.pdb
+c:\users\rick\documents\visual studio 2010\Projects\BackboneMVC3\BackboneMVC3\bin\EntityFramework.dll
+c:\users\rick\documents\visual studio 2010\Projects\BackboneMVC3\BackboneMVC3\bin\EntityFramework.xml
+c:\users\rick\documents\visual studio 2010\Projects\BackboneMVC3\BackboneMVC3\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rick\documents\visual studio 2010\Projects\BackboneMVC3\BackboneMVC3\obj\Debug\BackboneMVC3.dll
+c:\users\rick\documents\visual studio 2010\Projects\BackboneMVC3\BackboneMVC3\obj\Debug\BackboneMVC3.pdb

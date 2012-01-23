@@ -1,0 +1,14 @@
+c:\users\rick\documents\visual studio 2010\Projects\BackboneMVC3\BackboneMVC3\bin\BackboneMVC3SignalR.dll
+c:\users\rick\documents\visual studio 2010\Projects\BackboneMVC3\BackboneMVC3\bin\BackboneMVC3SignalR.pdb
+c:\users\rick\documents\visual studio 2010\Projects\BackboneMVC3\BackboneMVC3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rick\documents\visual studio 2010\Projects\BackboneMVC3\BackboneMVC3\bin\SignalR.dll
+c:\users\rick\documents\visual studio 2010\Projects\BackboneMVC3\BackboneMVC3\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rick\documents\visual studio 2010\Projects\BackboneMVC3\BackboneMVC3\obj\Debug\BackboneMVC3SignalR.dll
+c:\users\rick\documents\visual studio 2010\Projects\BackboneMVC3\BackboneMVC3\obj\Debug\BackboneMVC3SignalR.pdb
+C:\Users\rick\Documents\Visual Studio 2010\Projects\BackboneMVC3\BackboneMVC3SignalR\bin\BackboneMVC3SignalR.dll
+C:\Users\rick\Documents\Visual Studio 2010\Projects\BackboneMVC3\BackboneMVC3SignalR\bin\BackboneMVC3SignalR.pdb
+C:\Users\rick\Documents\Visual Studio 2010\Projects\BackboneMVC3\BackboneMVC3SignalR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rick\Documents\Visual Studio 2010\Projects\BackboneMVC3\BackboneMVC3SignalR\bin\SignalR.dll
+C:\Users\rick\Documents\Visual Studio 2010\Projects\BackboneMVC3\BackboneMVC3SignalR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rick\Documents\Visual Studio 2010\Projects\BackboneMVC3\BackboneMVC3SignalR\obj\Debug\BackboneMVC3SignalR.dll
+C:\Users\rick\Documents\Visual Studio 2010\Projects\BackboneMVC3\BackboneMVC3SignalR\obj\Debug\BackboneMVC3SignalR.pdb
